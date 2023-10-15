@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+}
+h1{
+   text-align: center;
+}
+.lower-content-container{
+    display:flex;
+    justify-content: center;
+    padding-top: .83rem;
+}
+#reset{
+
+    width: 120px;
+    height: 60px;
+    font-size: 24px;
+}
+button{
+    width:200px;
+    height:200px;
+    font-size: 75px;
+}
+
+.row1{
+    padding-top: 5em;
+    display:flex;
+    justify-content: center;
+}
+.row2{
+    display:flex;
+    justify-content: center;
+}
+.row3{
+    display:flex;
+    justify-content: center;
+}
+#winner{
+    font-size: 24px;
+    color:transparent;
+}
